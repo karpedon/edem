@@ -388,10 +388,10 @@ h2 {
 	display      : block;
 	margin-bottom: 13px;
 }
-
-.padding_none {
-	margin: 0 !important;
+.menu_footer li:last-child{
+	margin-bottom: 0;
 }
+
 
 .menu_footer li a {
 	color          : #D1DAFF;
